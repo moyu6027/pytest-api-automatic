@@ -1,0 +1,169 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "postman",
+    "children" : [ {
+      "name" : "postman-api",
+      "children" : [ {
+        "name" : "test_timestamp[playload1]",
+        "uid" : "c6ec2d26e97296d1",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617959530228,
+          "stop" : 1617959531838,
+          "duration" : 1610
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2016-10', 'target': '2018-12', 'expected': 'True'}" ]
+      }, {
+        "name" : "test_timestamp[playload2]",
+        "uid" : "c5233e3767fe552",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617959530228,
+          "stop" : 1617959531838,
+          "duration" : 1610
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2016-10-10', 'target': '2018-13-13', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload7]",
+        "uid" : "7a1e606a7434ba6f",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617959530228,
+          "stop" : 1617959531838,
+          "duration" : 1610
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '6-30', 'target': '7-30', 'expected': 'True'}" ]
+      }, {
+        "name" : "test_timestamp[playload5]",
+        "uid" : "694bd5cf53755dba",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959530228,
+          "stop" : 1617959531836,
+          "duration" : 1608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2019-12-33', 'target': '2019-6-30', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload3]",
+        "uid" : "61af52fa9c627ebe",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617959530229,
+          "stop" : 1617959531838,
+          "duration" : 1609
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2016-10-10', 'target': '2015-12-13', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload0]",
+        "uid" : "2b06eca9f839875e",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617959530229,
+          "stop" : 1617959531838,
+          "duration" : 1609
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2016-10-10', 'target': '2018-12-13', 'expected': 'True'}" ]
+      }, {
+        "name" : "test_timestamp[playload6]",
+        "uid" : "b9db98ad3b741601",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959530230,
+          "stop" : 1617959531835,
+          "duration" : 1605
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '', 'target': '2019-6-30', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload4]",
+        "uid" : "e7e68ead954ea3de",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617959530230,
+          "stop" : 1617959531838,
+          "duration" : 1608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2016-10-10', 'target': '2019-12-33', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload10]",
+        "uid" : "cbcec93c9a10f62",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959531845,
+          "stop" : 1617959532749,
+          "duration" : 904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': 'abc', 'target': '2019-6-30', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload8]",
+        "uid" : "931336aded2f51c3",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617959531846,
+          "stop" : 1617959532754,
+          "duration" : 908
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2017', 'target': '2018', 'expected': 'True'}" ]
+      }, {
+        "name" : "test_timestamp[playload11]",
+        "uid" : "5996293ba308bb38",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617959531846,
+          "stop" : 1617959532735,
+          "duration" : 889
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '20190501', 'target': '2019-6-30', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload9]",
+        "uid" : "6da8251e53d93c4f",
+        "parentUid" : "828fa502beab65523f5225a94c271b4a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959531846,
+          "stop" : 1617959532779,
+          "duration" : 933
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '', 'target': '', 'expected': 'False'}" ]
+      } ],
+      "uid" : "828fa502beab65523f5225a94c271b4a"
+    } ],
+    "uid" : "667c88d5c7fe4dbf32c354e765f23c41"
+  } ]
+}

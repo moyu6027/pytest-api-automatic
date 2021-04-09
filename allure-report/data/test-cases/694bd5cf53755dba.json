@@ -1,0 +1,182 @@
+{
+  "uid" : "694bd5cf53755dba",
+  "name" : "test_timestamp[playload5]",
+  "fullName" : "testcases.test_postman_api#test_timestamp",
+  "historyId" : "45b4f228ad677a808f4d491109b6e1c9",
+  "time" : {
+    "start" : 1617959530228,
+    "stop" : 1617959531836,
+    "duration" : 1608
+  },
+  "description" : "\n    用例描述：测试不同的timestamp和target\n    ",
+  "descriptionHtml" : "<pre><code>用例描述：测试不同的timestamp和target\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "statusTrace" : "playload = {'expected': 'False', 'target': '2019-6-30', 'timestamp': '2019-12-33'}\nenv_config = {'host': {'url': 'https://postman-echo.com/time/before'}}\n\n    @allure.feature('postman')\n    @allure.story('postman-api')\n    @pytest.mark.parametrize('playload', get_data())\n    def test_timestamp(playload, env_config):\n        \"\"\"\n        用例描述：测试不同的timestamp和target\n        \"\"\"\n        # 从yml配置文件获取url\n    \n        url = env_config['host']['url']\n        r = httpx.get(url, params=playload)\n        with allure.step(\"GET请求接口\"):\n            allure.attach(name=\"请求接口\", body=str(env_config['host']['url']))\n            allure.attach(name=\"请求参数\", body=str(playload))\n            allure.attach(name=\"返回状态码\", body=str(r.status_code))\n            allure.attach(name=\"返回内容\", body=r.content)\n>       result = r.json()\n\ntestcases/test_postman_api.py:34: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n../../Downloads/playwright_python_practice-master/venv/lib/python3.8/site-packages/httpx/_models.py:1118: in json\n    return jsonlib.loads(self.text, **kwargs)\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py:357: in loads\n    return _default_decoder.decode(s)\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py:337: in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <json.decoder.JSONDecoder object at 0x7fee6fd260a0>, s = '', idx = 0\n\n    def raw_decode(self, s, idx=0):\n        \"\"\"Decode a JSON document from ``s`` (a ``str`` beginning with\n        a JSON document) and return a 2-tuple of the Python\n        representation and the index in ``s`` where the document ended.\n    \n        This can be used to decode a JSON document from a string that may\n        have extraneous data at the end.\n    \n        \"\"\"\n        try:\n            obj, end = self.scan_once(s, idx)\n        except StopIteration as err:\n>           raise JSONDecodeError(\"Expecting value\", s, err.value) from None\nE           json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py:355: JSONDecodeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "env_config",
+    "time" : {
+      "start" : 1617959530220,
+      "stop" : 1617959530225,
+      "duration" : 5
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "testsuite_setup_teardown",
+    "time" : {
+      "start" : 1617959530226,
+      "stop" : 1617959530226,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "root_path",
+    "time" : {
+      "start" : 1617959530226,
+      "stop" : 1617959530226,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n    用例描述：测试不同的timestamp和target\n    ",
+    "status" : "broken",
+    "statusMessage" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "statusTrace" : "playload = {'expected': 'False', 'target': '2019-6-30', 'timestamp': '2019-12-33'}\nenv_config = {'host': {'url': 'https://postman-echo.com/time/before'}}\n\n    @allure.feature('postman')\n    @allure.story('postman-api')\n    @pytest.mark.parametrize('playload', get_data())\n    def test_timestamp(playload, env_config):\n        \"\"\"\n        用例描述：测试不同的timestamp和target\n        \"\"\"\n        # 从yml配置文件获取url\n    \n        url = env_config['host']['url']\n        r = httpx.get(url, params=playload)\n        with allure.step(\"GET请求接口\"):\n            allure.attach(name=\"请求接口\", body=str(env_config['host']['url']))\n            allure.attach(name=\"请求参数\", body=str(playload))\n            allure.attach(name=\"返回状态码\", body=str(r.status_code))\n            allure.attach(name=\"返回内容\", body=r.content)\n>       result = r.json()\n\ntestcases/test_postman_api.py:34: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n../../Downloads/playwright_python_practice-master/venv/lib/python3.8/site-packages/httpx/_models.py:1118: in json\n    return jsonlib.loads(self.text, **kwargs)\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py:357: in loads\n    return _default_decoder.decode(s)\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py:337: in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <json.decoder.JSONDecoder object at 0x7fee6fd260a0>, s = '', idx = 0\n\n    def raw_decode(self, s, idx=0):\n        \"\"\"Decode a JSON document from ``s`` (a ``str`` beginning with\n        a JSON document) and return a 2-tuple of the Python\n        representation and the index in ``s`` where the document ended.\n    \n        This can be used to decode a JSON document from a string that may\n        have extraneous data at the end.\n    \n        \"\"\"\n        try:\n            obj, end = self.scan_once(s, idx)\n        except StopIteration as err:\n>           raise JSONDecodeError(\"Expecting value\", s, err.value) from None\nE           json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py:355: JSONDecodeError",
+    "steps" : [ {
+      "name" : "GET请求接口",
+      "time" : {
+        "start" : 1617959531831,
+        "stop" : 1617959531835,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "759c991e395ff154",
+        "name" : "请求接口",
+        "source" : "759c991e395ff154.attach",
+        "type" : "text/plain",
+        "size" : 36
+      }, {
+        "uid" : "dd86a0ba5a65244d",
+        "name" : "请求参数",
+        "source" : "dd86a0ba5a65244d.attach",
+        "type" : "text/plain",
+        "size" : 71
+      }, {
+        "uid" : "e043d7261231fe12",
+        "name" : "返回状态码",
+        "source" : "e043d7261231fe12.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "8631a0b0927431d3",
+        "name" : "返回内容",
+        "source" : "8631a0b0927431d3.attach",
+        "type" : "application/octet-stream",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 4,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "testsuite_setup_teardown::0",
+    "time" : {
+      "start" : 1617959532089,
+      "stop" : 1617959532089,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "postman"
+  }, {
+    "name" : "story",
+    "value" : "postman-api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_postman_api"
+  }, {
+    "name" : "host",
+    "value" : "cn-ml4007.hc.cn"
+  }, {
+    "name" : "thread",
+    "value" : "96506-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_postman_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "playload",
+    "value" : "{'timestamp': '2019-12-33', 'target': '2019-6-30', 'expected': 'False'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "694bd5cf53755dba.json",
+  "parameterValues" : [ "{'timestamp': '2019-12-33', 'target': '2019-6-30', 'expected': 'False'}" ]
+}

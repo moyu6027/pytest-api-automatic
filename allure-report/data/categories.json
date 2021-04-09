@@ -1,0 +1,86 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "children" : [ {
+        "name" : "test_timestamp[playload5]",
+        "uid" : "694bd5cf53755dba",
+        "parentUid" : "7bcaf70ebf758f58bb51e7ee5ff79f52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959530228,
+          "stop" : 1617959531836,
+          "duration" : 1608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '2019-12-33', 'target': '2019-6-30', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload6]",
+        "uid" : "b9db98ad3b741601",
+        "parentUid" : "7bcaf70ebf758f58bb51e7ee5ff79f52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959530230,
+          "stop" : 1617959531835,
+          "duration" : 1605
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '', 'target': '2019-6-30', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload10]",
+        "uid" : "cbcec93c9a10f62",
+        "parentUid" : "7bcaf70ebf758f58bb51e7ee5ff79f52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959531845,
+          "stop" : 1617959532749,
+          "duration" : 904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': 'abc', 'target': '2019-6-30', 'expected': 'False'}" ]
+      }, {
+        "name" : "test_timestamp[playload9]",
+        "uid" : "6da8251e53d93c4f",
+        "parentUid" : "7bcaf70ebf758f58bb51e7ee5ff79f52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617959531846,
+          "stop" : 1617959532779,
+          "duration" : 933
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '', 'target': '', 'expected': 'False'}" ]
+      } ],
+      "uid" : "7bcaf70ebf758f58bb51e7ee5ff79f52"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'True' == 'False'\n  - False\n  + True",
+      "children" : [ {
+        "name" : "test_timestamp[playload11]",
+        "uid" : "5996293ba308bb38",
+        "parentUid" : "e8e309755e2efcaa5197de3b1633c027",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617959531846,
+          "stop" : 1617959532735,
+          "duration" : 889
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'timestamp': '20190501', 'target': '2019-6-30', 'expected': 'False'}" ]
+      } ],
+      "uid" : "e8e309755e2efcaa5197de3b1633c027"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

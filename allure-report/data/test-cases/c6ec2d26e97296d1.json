@@ -1,0 +1,174 @@
+{
+  "uid" : "c6ec2d26e97296d1",
+  "name" : "test_timestamp[playload1]",
+  "fullName" : "testcases.test_postman_api#test_timestamp",
+  "historyId" : "545119a3b79e42f3da4b772da29687ff",
+  "time" : {
+    "start" : 1617959530228,
+    "stop" : 1617959531838,
+    "duration" : 1610
+  },
+  "description" : "\n    用例描述：测试不同的timestamp和target\n    ",
+  "descriptionHtml" : "<pre><code>用例描述：测试不同的timestamp和target\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "testsuite_setup_teardown",
+    "time" : {
+      "start" : 1617959530226,
+      "stop" : 1617959530226,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "root_path",
+    "time" : {
+      "start" : 1617959530226,
+      "stop" : 1617959530226,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "env_config",
+    "time" : {
+      "start" : 1617959530220,
+      "stop" : 1617959530225,
+      "duration" : 5
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n    用例描述：测试不同的timestamp和target\n    ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET请求接口",
+      "time" : {
+        "start" : 1617959531832,
+        "stop" : 1617959531835,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "997c9a14e0f2f265",
+        "name" : "请求接口",
+        "source" : "997c9a14e0f2f265.attach",
+        "type" : "text/plain",
+        "size" : 36
+      }, {
+        "uid" : "b2ca235d28406a3f",
+        "name" : "请求参数",
+        "source" : "b2ca235d28406a3f.attach",
+        "type" : "text/plain",
+        "size" : 65
+      }, {
+        "uid" : "590d60220755c780",
+        "name" : "返回状态码",
+        "source" : "590d60220755c780.attach",
+        "type" : "text/plain",
+        "size" : 3
+      }, {
+        "uid" : "37aae60bbf9eaf90",
+        "name" : "返回内容",
+        "source" : "37aae60bbf9eaf90.attach",
+        "type" : "text/plain",
+        "size" : 15
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 4,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "testsuite_setup_teardown::0",
+    "time" : {
+      "start" : 1617959533009,
+      "stop" : 1617959533009,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "postman-api"
+  }, {
+    "name" : "feature",
+    "value" : "postman"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_postman_api"
+  }, {
+    "name" : "host",
+    "value" : "cn-ml4007.hc.cn"
+  }, {
+    "name" : "thread",
+    "value" : "96498-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_postman_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "playload",
+    "value" : "{'timestamp': '2016-10', 'target': '2018-12', 'expected': 'True'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6ec2d26e97296d1.json",
+  "parameterValues" : [ "{'timestamp': '2016-10', 'target': '2018-12', 'expected': 'True'}" ]
+}

@@ -1,0 +1,37 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 09 17:12:11 CST 2021","Fri Apr 09 17:12:12 CST 2021","908","testcases","test_postman_api","","","","test_timestamp[playload8]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1605","testcases","test_postman_api","","","","test_timestamp[playload6]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1608","testcases","test_postman_api","","","","test_timestamp[playload4]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1610","testcases","test_postman_api","","","","test_timestamp[playload1]","
+    用例描述：测试不同的timestamp和target
+    "
+"failed","Fri Apr 09 17:12:11 CST 2021","Fri Apr 09 17:12:12 CST 2021","889","testcases","test_postman_api","","","","test_timestamp[playload11]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Fri Apr 09 17:12:11 CST 2021","Fri Apr 09 17:12:12 CST 2021","904","testcases","test_postman_api","","","","test_timestamp[playload10]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1610","testcases","test_postman_api","","","","test_timestamp[playload2]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1610","testcases","test_postman_api","","","","test_timestamp[playload7]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1609","testcases","test_postman_api","","","","test_timestamp[playload3]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1608","testcases","test_postman_api","","","","test_timestamp[playload5]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Fri Apr 09 17:12:11 CST 2021","Fri Apr 09 17:12:12 CST 2021","933","testcases","test_postman_api","","","","test_timestamp[playload9]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Fri Apr 09 17:12:10 CST 2021","Fri Apr 09 17:12:11 CST 2021","1609","testcases","test_postman_api","","","","test_timestamp[playload0]","
+    用例描述：测试不同的timestamp和target
+    "

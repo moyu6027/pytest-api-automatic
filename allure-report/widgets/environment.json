@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "chrome" ],
+  "name" : "browser"
+}, {
+  "values" : [ "staging" ],
+  "name" : "backend"
+}, {
+  "values" : [ "http://baidu.com" ],
+  "name" : "domain"
+} ]

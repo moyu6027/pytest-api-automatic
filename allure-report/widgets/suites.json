@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1",
+    "name" : "testcases",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 12
+    }
+  } ]
+}

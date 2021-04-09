@@ -1,0 +1,16 @@
+TestSample:
+  desc: "Yaml例子"
+  path: "/sample/v1"
+  method: GET
+  test_01:
+    desc: 'test 01'
+    data: {"param1":8,"param2":"测试测试"}
+    expected:
+      status_code: 200
+      before: True
+  test_02:
+    desc: 'test 02'
+    data: {"param1":8,"param2":"测试测试"}
+    expected:
+      status_code: 400
+      before: ''
