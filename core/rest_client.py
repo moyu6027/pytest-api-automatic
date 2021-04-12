@@ -19,7 +19,7 @@ class RestClient(object):
         cookies = dict(**kwargs).get("cookies")
         self.request_log(url, method, data, json, params, headers, files, cookies)
         try:
-            response = httpx.request(method, url, data, json, **kwargs)
+            response = httpx.request(method, url, data=data, json=json, **kwargs)
         except httpx.RequestError as e:
             self.log.error(e)
             raise
@@ -51,9 +51,10 @@ class RestClient(object):
         with allure.step(method + "请求接口"):
             allure.attach(name="请求接口", body=str(url))
             allure.attach(name="请求方式", body=str(method))
+            allure.attach(name="请求header", body=str(headers))
             allure.attach(name="请求Data参数", body=str(data))
             allure.attach(name="请求Json参数", body=str(json))
-            allure.attach(name="请求参数", body=str(**kwargs))
+            allure.attach(name="请求参数", body=str(params))
             allure.attach(name="返回状态码", body=str(response.status_code))
             allure.attach(name="返回内容", body=response.content)
         return response_dicts

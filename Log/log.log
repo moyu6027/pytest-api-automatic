@@ -10,3 +10,1083 @@
 [INFO 2021-04-12 00:36:31]b'{"before":true}' - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
 [INFO 2021-04-12 00:36:31]b'{"before":true}' - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
 [INFO 2021-04-12 00:36:31]b'' - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2019-12-33",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2019-12-33",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "6-30",
+    "target": "7-30",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10",
+    "target": "2018-12",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-13-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2015-12-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-12-13",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2019-12-33",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "2019-12-33",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-13-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10",
+    "target": "2018-12",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "6-30",
+    "target": "7-30",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-12-13",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2015-12-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:03]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 374.495, 'time_total': 1.374495} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 372.369, 'time_total': 1.372369} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 374.836, 'time_total': 1.374836} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 374.199, 'time_total': 1.374199} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 374.944, 'time_total': 1.374944} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 375.259, 'time_total': 1.375259} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 372.469, 'time_total': 1.372469} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:04]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 376.384, 'time_total': 1.376384} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:05]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:06]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 837.867, 'time_total': 0.837867} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:06]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 836.458, 'time_total': 0.836458} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:06]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 958.003, 'time_total': 0.958003} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:50:06]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 964.13, 'time_total': 0.96413} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "2019-12-33",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2019-12-33",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-12-13",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2015-12-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10",
+    "target": "2018-12",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-13-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求 params 参数 ==>> {
+    "timestamp": "6-30",
+    "target": "7-30",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:04]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 488.668, 'time_total': 1.488668} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 487.14, 'time_total': 1.48714} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 488.591, 'time_total': 1.488591} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 488.756, 'time_total': 1.488756} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 488.931, 'time_total': 1.488931} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 489.034, 'time_total': 1.489034} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 488.958, 'time_total': 1.488958} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 492.298, 'time_total': 1.492298} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:07]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 254.188, 'time_total': 1.254188} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:07]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 251.846, 'time_total': 1.251846} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:07]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 245.608, 'time_total': 1.245608} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 19:54:07]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 251.06, 'time_total': 1.25106} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2019-12-33",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "2019-12-33",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2015-12-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "6-30",
+    "target": "7-30",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-12-13",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10",
+    "target": "2018-12",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-13-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:54]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 982.822, 'time_total': 0.982822} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 983.019, 'time_total': 0.983019} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 983.644, 'time_total': 0.983644} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 103.457, 'time_total': 1.103457} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 105.036, 'time_total': 1.105036} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 110.467, 'time_total': 1.110467} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 122.403, 'time_total': 1.122403} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 123.15, 'time_total': 1.12315} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:55]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:56]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 965.604, 'time_total': 0.965604} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:56]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 959.382, 'time_total': 0.959382} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:56]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 957.719, 'time_total': 0.957719} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:03:56]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 961.194, 'time_total': 0.961194} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10",
+    "target": "2018-12",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-12-13",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "6-30",
+    "target": "7-30",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-13-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2019-12-33",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2015-12-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求 params 参数 ==>> {
+    "timestamp": "2019-12-33",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:38]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:39]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 52.345, 'time_total': 1.052345} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 111.092, 'time_total': 1.111092} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 111.94, 'time_total': 1.11194} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 111.952, 'time_total': 1.111952} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 110.26, 'time_total': 1.11026} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 113.207, 'time_total': 1.113207} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 114.475, 'time_total': 1.114475} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 114.449, 'time_total': 1.114449} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:40]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:41]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 196.959, 'time_total': 1.196959} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:41]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 209.334, 'time_total': 1.209334} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:41]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 205.193, 'time_total': 1.205193} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:04:41]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 206.974, 'time_total': 1.206974} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2015-12-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "6-30",
+    "target": "7-30",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "2019-12-33",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-12-13",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-13-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10",
+    "target": "2018-12",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2019-12-33",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:10]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 100.841, 'time_total': 1.100841} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 104.14, 'time_total': 1.10414} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 195.458, 'time_total': 1.195458} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 195.504, 'time_total': 1.195504} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 195.32, 'time_total': 1.19532} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 194.89, 'time_total': 1.19489} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 200.199, 'time_total': 1.200199} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 201.933, 'time_total': 1.201933} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:11]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:12]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 971.959, 'time_total': 0.971959} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:12]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 973.037, 'time_total': 0.973037} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:12]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 999.89, 'time_total': 0.99989} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:06:12]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 992.962, 'time_total': 0.992962} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "2019-12-33",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2019-12-33",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2015-12-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-12-13",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10",
+    "target": "2018-12",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "6-30",
+    "target": "7-30",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求 params 参数 ==>> {
+    "timestamp": "2016-10-10",
+    "target": "2018-13-13",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:06]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 356.591, 'time_total': 1.356591} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 354.529, 'time_total': 1.354529} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 356.268, 'time_total': 1.356268} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 356.243, 'time_total': 1.356243} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 357.12, 'time_total': 1.35712} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 356.32, 'time_total': 1.35632} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 200, 'body': {'before': False}, 'text': '{"before":false}', 'time_consuming': 345.206, 'time_total': 1.345206} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 356.04, 'time_total': 1.35604} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:07]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:08]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 834.166, 'time_total': 0.834166} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:08]返回结果：{'code': 400, 'body': '', 'text': '', 'time_consuming': 958.57, 'time_total': 0.95857} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:08]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 958.527, 'time_total': 0.958527} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 20:12:08]返回结果：{'code': 200, 'body': {'before': True}, 'text': '{"before":true}', 'time_consuming': 959.765, 'time_total': 0.959765} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]

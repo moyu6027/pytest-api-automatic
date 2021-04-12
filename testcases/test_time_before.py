@@ -5,7 +5,7 @@ import requests
 import httpx
 import os
 import pandas as pd
-
+from core.Assert import Assertion
 from apiobjects.time_before import Time
 from utils.test_data import get_data
 
@@ -25,8 +25,8 @@ class TestTime:
     @allure.story('time_before')
     @pytest.mark.parametrize('playload', get_data())
     def test_timestamp(self, playload, env_config):
-        result = self.time_api.before_api(playload, env_config).json()
-        assert str(result['before']) == playload['expected']
+        result = self.time_api.before_api(playload, env_config)
+        self.time_api.Assert.assert_code(code=result['code'], expect_code=200)
 # @allure.epic('postman')
 # @allure.feature('postman-api')
 # @allure.story('time_before')

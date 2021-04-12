@@ -1,0 +1,64 @@
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "",
+    "target": "",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "abc",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "2017",
+    "target": "2018",
+    "expected": "True"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求地址 ==>> https://postman-echo.com/time/before - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求方式 ==>> GET - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+[INFO 2021-04-12 18:03:24]接口请求头 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求 params 参数 ==>> {
+    "timestamp": "20190501",
+    "target": "2019-6-30",
+    "expected": "False"
+} - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 data 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口请求体 json 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口上传附件 files 参数 ==>> None - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+[INFO 2021-04-12 18:03:24]接口 cookies 参数 ==>> null - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:38]
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+------------------------------------- End to run test case------------------------------------ - /Users/sean.yu/Documents/pytest-api-automatic/testcases/conftest.py[line:9]
+[ERROR 2021-04-12 20:06:11]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-12 20:06:11]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-12 20:06:12]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-12 20:06:12]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-12 20:12:07]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-12 20:12:07]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-12 20:12:08]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-12 20:12:08]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]

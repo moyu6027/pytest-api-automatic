@@ -8,6 +8,6 @@ class Time(BaseApi):
 
     def before_api(self, playload, env_config):
         url = env_config['host']['url']
-        r = httpx.get(url, params=playload)
-        self.Logger.info(str(r.content))
+        r = self.rest_client.requests(host=url, url='/time/before', method='GET', params=playload)
+        # self.Logger.info(str(r.content))
         return r
