@@ -8,6 +8,12 @@ import os
 import time
 
 logger = logging.getLogger()
+current_path = os.path.dirname(os.path.dirname(__file__))
+log_path = os.path.join(current_path, "Log")
+if os.path.exists(log_path):
+    pass
+else:
+    os.mkdir(log_path, mode=0o777)
 
 
 class LogInfo:
@@ -29,9 +35,9 @@ class LogInfo:
     @staticmethod
     def info(message):
         logger.addHandler(LogInfo.info_handler)
-        logger.error("[ERROR " + get_current_time() + "]" + message)
+        logger.info("[INFO " + get_current_time() + "]" + message)
         print(message)
-        logger.removeHandler(LogInfo.err_handler)
+        logger.removeHandler(LogInfo.info_handler)
 
     @staticmethod
     def error(message):

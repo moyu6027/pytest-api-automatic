@@ -1,6 +1,6 @@
 TestSample:
   desc: "Yaml例子"
-  path: "/sample/v1"
+  path: "/time/before"
   method: GET
   test_01:
     desc: 'test 01'

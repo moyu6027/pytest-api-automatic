@@ -100,6 +100,5 @@ def function_rd(field):
             field = field.replace("{__RD" + i + "}", random_datetime)
     else:
         pass
-
-    return field
     # 返回替换后的字段
+    return field

@@ -37,7 +37,7 @@ pipeline {
         stage('Test') {
             steps {
                 script{
-                    sh "-n auto testcases --alluredir allure-results"
+                    sh "pytest -n auto testcases --alluredir allure-results --env ${measured_environment}"
                     sh "allure generate allure-results --clean -o allure-report"
                     }
                 }
