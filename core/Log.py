@@ -7,7 +7,7 @@ import logging
 import os
 import time
 
-logger = logging.getLogger()
+logger = logging.getLogger("Pytest-Api-Automatic")
 current_path = os.path.dirname(os.path.dirname(__file__))
 log_path = os.path.join(current_path, "Log")
 if os.path.exists(log_path):
