@@ -1,0 +1,12 @@
+test_timestamp:
+  # 时间戳,目标值,期望返回信息
+  # timestamp,target,expected
+  - ["2016-10-10","2018-12-13",True]
+  - ["2016-10","2018-12",True]
+  - ["2016-10-10","2018-13-13",False]
+
+test_post_param:
+  # 参数1,参数2,期望返回码
+  # foo1, foo2, except_code
+  - ["bar1","bar2",200]
+  - ["wintest1111","1004",200]

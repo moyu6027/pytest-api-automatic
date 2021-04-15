@@ -18,3 +18,4 @@ PyYAML
 pandas
 demjson
 pytest-parallel
+hypothesis

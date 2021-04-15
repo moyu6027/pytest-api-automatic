@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 source venv/bin/activate
 echo "-> Installing dependencies"
-python -m pip install --upgrade pip
+python3 -m pip install --upgrade pip
 pip3 install -r requirements.txt --quiet
 
 echo "-> Removing old Allure results"
