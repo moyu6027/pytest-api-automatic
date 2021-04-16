@@ -25,7 +25,13 @@ class TestPost:
     # @pytest.mark.parametrize('payload', get_data('post_param.csv'))
     @pytest.mark.datafile('api_test_data.yml')
     def test_post_param(self, parameters, env_config):
-        print(parameters)
-        self.post_api.Logger.info(parameters)
-        # result = self.post_api.post_param(payload, env_config)
-        # self.post_api.Assert.assert_code(code=result['code'], expect_code=200)
+        foo1, foo2, expect_code = parameters
+        json_data = {
+            "foo1": foo1,
+            "foo2": foo2,
+        }
+        header = {
+            "Content-Type": "application/json"
+        }
+        result = self.post_api.post_param(json_data, env_config)
+        self.post_api.Assert.assert_code(code=result['code'], expect_code=expect_code)

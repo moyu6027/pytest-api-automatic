@@ -122,3 +122,7 @@
 [ERROR 2021-04-15 23:50:25]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
 [ERROR 2021-04-15 23:50:26]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
 [ERROR 2021-04-15 23:50:26]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-16 09:39:42]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-16 09:39:43]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-16 09:39:43]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
+[ERROR 2021-04-16 09:39:44]AssertionError: expect_code is 200, statusCode is 400  - /Users/sean.yu/Documents/pytest-api-automatic/core/Log.py[line:45]
