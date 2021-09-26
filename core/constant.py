@@ -17,6 +17,9 @@ class Constant:
     # testcases
     CASES_DIR = os.path.join(BASE_DIR, "testcases")
 
+    # features
+    FEATURE_DIR = os.path.join(CASES_DIR, "bdd_test", "features")
+
     # utils
     UTILS_DIR = os.path.join(BASE_DIR, "utils")
 

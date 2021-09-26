@@ -9,7 +9,7 @@ rm -r allure-results/* || echo "No results"
 cp environment.properties allure-results/
 
 echo "-> Start testcases"
-pytest -n auto testcases --alluredir allure-results --env test
+pytest -n auto testcases --alluredir allure-results --env test --reportportal
 echo "-> Test finished"
 
 echo "-> Generating report"

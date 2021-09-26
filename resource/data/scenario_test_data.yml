@@ -1,0 +1,9 @@
+test_user_register_login_list:
+  username: "测试test"
+  password: "123456"
+  telephone: "13599999999"
+  sex: "1"
+  address: "天津市南开区慧谷大厦"
+  except_result: True
+  except_code: 0
+  except_msg: "查询成功"
